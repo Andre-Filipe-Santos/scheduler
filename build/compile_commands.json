@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/aluno/trabalho1/build",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/ossim.dir/ossim.c.o -c /home/aluno/trabalho1/ossim.c",
+  "file": "/home/aluno/trabalho1/ossim.c",
+  "output": "CMakeFiles/ossim.dir/ossim.c.o"
+},
+{
+  "directory": "/home/aluno/trabalho1/build",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/ossim.dir/queue.c.o -c /home/aluno/trabalho1/queue.c",
+  "file": "/home/aluno/trabalho1/queue.c",
+  "output": "CMakeFiles/ossim.dir/queue.c.o"
+},
+{
+  "directory": "/home/aluno/trabalho1/build",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/ossim.dir/scheduler.c.o -c /home/aluno/trabalho1/scheduler.c",
+  "file": "/home/aluno/trabalho1/scheduler.c",
+  "output": "CMakeFiles/ossim.dir/scheduler.c.o"
+},
+{
+  "directory": "/home/aluno/trabalho1/build",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/application.dir/application.c.o -c /home/aluno/trabalho1/application.c",
+  "file": "/home/aluno/trabalho1/application.c",
+  "output": "CMakeFiles/application.dir/application.c.o"
+},
+{
+  "directory": "/home/aluno/trabalho1/build",
+  "command": "/usr/bin/cc   -g -std=gnu11 -fdiagnostics-color=always -Wall -Wextra -Wno-unused-parameter -o CMakeFiles/application.dir/burst_queue.c.o -c /home/aluno/trabalho1/burst_queue.c",
+  "file": "/home/aluno/trabalho1/burst_queue.c",
+  "output": "CMakeFiles/application.dir/burst_queue.c.o"
+}
+]

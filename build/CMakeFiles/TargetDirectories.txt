@@ -1,0 +1,5 @@
+/home/aluno/trabalho1/build/CMakeFiles/ossim.dir
+/home/aluno/trabalho1/build/CMakeFiles/application.dir
+/home/aluno/trabalho1/build/CMakeFiles/archive.dir
+/home/aluno/trabalho1/build/CMakeFiles/edit_cache.dir
+/home/aluno/trabalho1/build/CMakeFiles/rebuild_cache.dir

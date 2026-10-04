@@ -1,0 +1,11 @@
+#processo interativo, pequenos bursts de cpu time, longas pausas para I/O
+
+#mas aqui é mais longo para manter o sistema a funcionar enquanto o hibrido corre
+
+100,900,0
+100,900,0
+100,900,0
+100,900,0
+100,900,0
+100,900,0
+100,900,0

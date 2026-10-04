@@ -1,0 +1,8 @@
+#processo hibrido, so cpu, depois I/O, depois cpu
+
+3000,0,0
+100,500,0
+100,500,0
+100,500,0
+100,500,0
+3000,0,0
